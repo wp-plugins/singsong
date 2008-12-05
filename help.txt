@@ -1,0 +1,53 @@
+Please configure your player. You have two options: 
+
+Insert mode
+===============
+
+The player will be directly embedded into the page content. 
+
+In this case only "Player Dimensions", "Autoplay" and "Loop" 
+
+parameters need to be configured. 
+
+
+Usage : 
+------
+To use this option copy and past this code into your posts/pages:
+
+[singsong-insert:URL of an audio file or a playlist]
+
+Example :
+-------
+[singsong-insert:http://www.mysite.com/mymusique/song.mp3]
+
+
+
+Popup mode
+==============
+
+Use this option if you want to be sure that your visitors 
+
+can listen to the music without interruptions 
+
+anywhere on your WordPress site.
+
+This option will display a link (text or image). 
+
+when someone clicks on this link a new mini-window (popup) 
+
+will open which will display your player. 
+
+You can change the dimensions of the pop up window
+
+using "Window Dimensions" parameters. 
+
+Usage : 
+------
+To use this option copy and past this code into your posts/pages:
+
+[singsong-popup:URL of an audio file or playlist] 
+
+Example :
+-------
+[singsong-popup:http://www.mysite.com/mymusique/song.mp3]
+
